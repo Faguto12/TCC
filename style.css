@@ -1,0 +1,15 @@
+.corpo
+{
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-top: 15px;
+}
+
+#menu
+{
+}
+
+.carousel-item img
+{
+	object-fit: cover;
+}s
